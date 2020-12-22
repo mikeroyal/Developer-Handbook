@@ -4,7 +4,7 @@
   Developer Handbook
 </h1>
 
-#### A Developer Handbook covering a variuous of Computer Architectures, Programming languages, Security, Networking, Game Developemnt, Graphics programming, Agile Development, etc.. This handbook also includes the Applications, Frameworks, Libraries and Tools that will make you a better and more efficient developer within each of Development.
+#### A Developer Handbook covering a variuous of Computer Architectures, Programming languages, Security, Networking, Game Developement, Graphics programming, Agile Development, etc.. This handbook also includes the Applications, Frameworks, Libraries and Tools that will make you a better and more efficient developer within each of Development.
 
 
 # Table of Contents
