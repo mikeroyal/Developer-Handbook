@@ -11,7 +11,9 @@ HandBook Version 1.0, 2021
 [View License](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#license)
 
 
-**Note**: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).
+**Note 1**: This Developer handbook will be continuously updated and improved with new topics, diagrams, code samples, and other content throughout 2021 & beyond. 
+
+**Note 2**: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).
 
 
 
@@ -40,7 +42,8 @@ HandBook Version 1.0, 2021
 | 19. [Rust](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#19-rust)| 39. [Flutter](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#39-flutter)|59. [Agile Development](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#59-agile-development)|
 |20. [Kotlin](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#20-kotlin)|40. [Firebase](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#40-firebase)|60. [RISC-V](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#60-risc-v)
 |61. [Serverless](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#61-serverless)| 62.[XML](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#62-xml) | 63. [Verilog/SystemVerilog](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#63-verilog-\-systemverilog)|
-|64. [Quantum Computing](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#64-quantum-computing)|65. [Data Structures & Algorithms](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#65-data-structures--algorithms)||
+|64. [Quantum Computing](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#64-quantum-computing)|65. [Data Structures & Algorithms](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#65-data-structures--algorithms)|66. [Differential Privacy](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#66-differential-privacy)|
+|67. [Raspberry Pi](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#67-raspberry-pi)||
 
 
 
