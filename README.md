@@ -19,7 +19,7 @@ HandBook Version 1.0, 2021
 
 # Table of Contents
 
-| Sections | |  |
+| Section 1 | Section 2 | Section 3 |
 | --------------- | --------------- | --------------- |
 | 1. [DevOps](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#1-devops)|  21. [Swift](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#21-swift)| 41. [Objective-C](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#41-objective-c)|
 | 2. [IoT](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#2-iot)| 22. [Golang](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#22-golang)| 42. [Qt](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#42-qt)| 
@@ -44,6 +44,7 @@ HandBook Version 1.0, 2021
 |61. [Serverless](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#61-serverless)| 62.[XML](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#62-xml) | 63. [Verilog/SystemVerilog](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#63-verilog-\-systemverilog)|
 |64. [Quantum Computing](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#64-quantum-computing)|65. [Data Structures & Algorithms](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#65-data-structures--algorithms)|66. [Differential Privacy](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#66-differential-privacy)|
 |67. [Raspberry Pi](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#67-raspberry-pi)||
+
 
 
 
