@@ -19,7 +19,7 @@ HandBook Version 1.0, 2021
 
 # Table of Contents
 
-| Sections
+| Sections | |  |
 | --------------- | --------------- | --------------- |
 | 1. [DevOps](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#1-devops)|  21. [Swift](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#21-swift)| 41. [Objective-C](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#41-objective-c)|
 | 2. [IoT](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#2-iot)| 22. [Golang](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#22-golang)| 42. [Qt](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#42-qt)| 
