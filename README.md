@@ -5997,6 +5997,7 @@ automatically discovers the right configuration for your services.
 
 # 66. Differential Privacy
 
+[Back to the Top](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#table-of-contents)
 
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/103486336-fd59c100-4db1-11eb-9780-a0b90bd5db1f.png">
@@ -6104,6 +6105,8 @@ automatically discovers the right configuration for your services.
 [Smart Noise](https://github.com/opendifferentialprivacy/smartnoise-sdk) is a toolkit that uses state-of-the-art differential privacy (DP) techniques to inject noise into data, to prevent disclosure of sensitive information and manage exposure risk.
 
 # 67. Raspberry Pi
+
+[Back to the Top](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#table-of-contents)
 
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/103486513-4cecbc80-4db3-11eb-89a0-fa155cbcdbda.png">
