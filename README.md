@@ -11,7 +11,7 @@ HandBook Version 1.0, 2021
 [View License](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#license)
 
 
-**Note 1**: This Developer handbook will be continuously updated and improved with new topics, diagrams, code samples, and other content throughout 2021 & beyond. 
+**Note 1**: This Developer handbook will be continuously updated and improved with new topics, diagrams, code samples, and other content throughout 2021 & beyond. This handook will also be available in other document formats such as PDF, [AsciiDoc](https://asciidoc.org) using [Asciidoctor](https://asciidoctor.org) and [MkDocs](https://www.mkdocs.org/), which is a fast and simple  static site generator that's geared towards building project documentation. 
 
 **Note 2**: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).
 
@@ -825,7 +825,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 ## Linux Companies
 
-[Red Hat](https://www.redhat.com/en) makers of Red Hat Enterprise Linux and sponsors to the [Fedora Project](https://getfedora.org/).
+[Red Hat](https://www.redhat.com/en) makers of Red Hat Enterprise Linux and sponsors the [Fedora Project](https://getfedora.org/). Red Hat also develops [CentOS Stream](https://www.centos.org/centos-stream/), which is a continuously delivered distro that tracks just ahead of Red Hat Enterprise Linux (RHEL) development, positioned as a midstream between Fedora Linux and RHEL.
 
 [Canonical](https://canonical.com) makers of Ubuntu Desktop and Server.
 
@@ -837,17 +837,21 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 ## Linux Hardware Vendors
 
+[Dell](https://www.dell.com/en-us/work/shop/overview/cp/linuxsystems) 
+
+[Lenovo](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/X1-Carbon-Gen-8-/p/22TP2X1X1C8?clickid=2BI2bvSDaxyOUYgwUx0Mo36AUkiXENxNRV4X240&irgwc=1&PID=2347489&acid=ww%3Aaffiliate%3Abv0as6)
+
+[HP](https://www8.hp.com/us/en/campaigns/ubuntu/index.html)
+
 [System76](https://system76.com)
 
 [Tuexdo Computers](https://www.tuxedocomputers.com/en)
 
 [Entroware](https://www.entroware.com/store/)
 
-[Dell](https://www.dell.com/en-us/work/shop/overview/cp/linuxsystems) 
+[Pine64](https://www.pine64.org/)
 
-[Lenovo](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/X1-Carbon-Gen-8-/p/22TP2X1X1C8?clickid=2BI2bvSDaxyOUYgwUx0Mo36AUkiXENxNRV4X240&irgwc=1&PID=2347489&acid=ww%3Aaffiliate%3Abv0as6)
-
-[HP](https://www8.hp.com/us/en/campaigns/ubuntu/index.html)
+[Purism](https://puri.sm/)
 
 ## Linux in the Cloud
 
