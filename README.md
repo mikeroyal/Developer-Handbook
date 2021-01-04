@@ -14,6 +14,7 @@ HandBook Version 1.0, 2021
 
 [View License](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#license)
 
+**View/Download this Developer Handbook as PDF:**[Developer Handbook v1.0.pdf](https://github.com/mikeroyal/Developer-Handbook/files/5766942/Developer.Handbook.v1.0.pdf)
 
 **Note 1**: This Developer handbook will be continuously updated and improved with new topics, diagrams, code samples, and other content throughout 2021 & beyond. This handook will also be available in other document formats such as PDF, [AsciiDoc](https://asciidoc.org) using [Asciidoctor](https://asciidoctor.org) and [MkDocs](https://www.mkdocs.org/), which is a fast and simple  static site generator that's geared towards building project documentation. 
 
