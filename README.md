@@ -6269,6 +6269,248 @@ automatically discovers the right configuration for your services.
 [OpenBalena](https://balena.io/open) is a platform to deploy and manage connected devices.
 
 
+# 68. Arduino
+
+[Back to the Top](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#table-of-contents)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/104068298-878e9480-51b9-11eb-8ce3-3aecaddb6015.png">
+  <br />
+  Arduino Guide
+</h1>
+
+#### A guide covering Arduino devices such as the Arduino Uno and Arduino Nano. Along with the tools, applications and libraries that will make you a better and more efficient developer with Arduino devices. Also, learn about cool projects that you can build with your Arduino device.
+
+
+[Checkout the Arduino Starter Kit](https://store.arduino.cc/usa/arduino-starter-kit)
+
+<img src="https://user-images.githubusercontent.com/45159366/104068309-8a898500-51b9-11eb-9265-beb5a28e649b.jpg">
+
+
+
+[Checkout the Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3)
+
+<img src="https://user-images.githubusercontent.com/45159366/104068324-8eb5a280-51b9-11eb-942c-390f5b29b259.jpg">
+
+
+**Arduino Uno Hardware Specs**
+
+ - Microcontroller	ATmega328P
+ - Operating Voltage	5V
+ - Input Voltage (recommended)	7-12V
+ - Input Voltage (limit)	6-20V
+ - Digital I/O Pins	14 (of which 6 provide PWM output)
+ - Flash Memory	32 KB (ATmega328P) of which 0.5 KB used by bootloader
+ - SRAM	2 KB (ATmega328P)
+ - EEPROM	1 KB (ATmega328P)
+ - Clock Speed	16 MHz
+ 
+ 
+ [Checkout the Arduino Nano](https://store.arduino.cc/usa/arduino-nano)
+ 
+<img src="https://user-images.githubusercontent.com/45159366/104068320-8d847580-51b9-11eb-960d-8faa3ef525fc.jpg">
+
+
+**Arduino Nano Hardware Specs**
+
+ - Microcontroller	ATmega328
+ - Architecture	AVR
+ - Operating Voltage	5 V
+ - Flash Memory	32 KB of which 2 KB used by bootloader
+ - SRAM	2 KB
+ - Clock Speed	16 MHz
+ - Input Voltage	7-12 V
+ - Digital I/O Pins	22 (6 of which are PWM)
+ 
+ 
+## Resources
+ 
+[Arduino](https://www.arduino.cc/) is an open source electronic prototyping platform enabling users to create interactive electronic objects.
+ 
+[Arduino Reference Manual](https://www.arduino.cc/reference/)
+ 
+[Getting Started with Arduino](https://create.arduino.cc/getting-started)
+ 
+[Arduino Education](https://www.arduino.cc/education)
+ 
+[Arduino Store](https://store.arduino.cc/)
+ 
+[Arduino Forum](https://forum.arduino.cc/)
+ 
+[Arduino Courses on Udemy](https://www.udemy.com/topic/arduino/)
+ 
+[Arduino Courses on Coursera](https://www.coursera.org/courses?query=arduino)
+ 
+[Online Arduino Classes on Skillshare](https://www.skillshare.com/browse/arduino)
+ 
+[Introduction to Arduino course on Pluralsight](https://www.pluralsight.com/courses/arduino-introduction)
+ 
+[Arduino Training Courses on NobleProg](https://www.nobleprog.com/arduino-training)
+ 
+[Arduino with Python course from Real Python](https://realpython.com/arduino-python/)
+
+[200+ Arduino Projects on Instructables](https://www.instructables.com/Arduino-42/)
+
+
+## Tools
+ 
+[Arduino CLI](https://github.com/arduino/arduino-cli) is an all-in-one solution that provides builder, Boards/Library Manager, uploader, discovery and many other tools needed to use any Arduino compatible board and platforms.
+ 
+[Arduino IDE](https://www.arduino.cc/en/software) is an open source integrated development environment(IDE) for the Arduino computing platforms based on easy-to-use hardware and software.
+ 
+[Arduino Pro IDE](https://github.com/arduino/arduino-pro-ide) is a professional version of the Arduino IDE that brings more features for advanced users and developers. The project is currently in the experimently version.
+
+[VSCode Arduino](https://github.com/Microsoft/vscode-arduino) is a VSCode extension for Arduino.  The Arduino extension makes it easy to develop, build, deploy and debug your Arduino sketches in Visual Studio Code, with a rich set of functionalities. 
+ 
+[Gobot](https://gobot.io/) is a framework using the [Golang](https://golang.org/)  programming language for robotics, physical computing, and the Internet of Things(IoT).
+ 
+[Tasmota](https://tasmota.github.io/docs) is an alternative firmware for [ESP8266](https://en.wikipedia.org/wiki/ESP8266) based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX.
+ 
+[Blynk](https://www.blynk.cc/) is a C++ library for embedded hardware. It works with over 400 hardware models such as Arduino, ESP8266, Raspberry Pi, Intel Edison/Galileo, LinkIt ONE, Particle Core/Photon, ARM mbed, etc.
+ 
+[Arduino Thread](https://github.com/ivanseidel/ArduinoThread) is a library tha makes it simple to run Threads on Arduino.
+ 
+[PlatformIO](https://platformio.org/) is a professional collaborative platform for embedded development with no vendor lock-in. It provides support for multiplatforms and frameworks such as IoT, Arduino, CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, Pulp OS, SPL, STM32Cube, Zephyr RTOS, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), NXP i.MX RT, PIC32, RISC-V.
+
+[PlatformIO for VSCode](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) is a plugin that provides support for the PlatformIO IDE on VSCode.
+ 
+[Tock](https://www.tockos.org/) is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms. Tock's design centers around protection, both from potentially malicious applications and from device drivers. 
+
+[TinyGo](https://tinygo.org/) is a Go compiler(based on LLVM) intended for use in small places such as microcontrollers, WebAssembly (Wasm), and command-line tools.
+
+[LLVM](https://github.com/llvm/) is a library that has collection of modular/reusable compiler and toolchain  components (assemblers, compilers, debuggers, etc.). With these components LLVM can be used as a compiler framework, providing a front-end(parser and lexer) and a back-end (code that converts LLVM's representation to actual machine code).
+
+[Chipyard](https://chipyard.readthedocs.io/en/latest/) is an open source framework for agile development of Chisel-based systems-on-chip. It will allow you to leverage the Chisel HDL, Rocket Chip SoC generator, and other [Berkeley](https://berkeley.edu/) projects to produce a RISC-V SoC with everything from MMIO-mapped peripherals to custom accelerators.
+
+[The Eclipse Embedded CDT](https://github.com/eclipse-embed-cdt/eclipse-plugins) is a collection of plug-ins for Arm & RISC-V C/C++ developers.
+[Unicorn](https://github.com/unicorn-engine/unicorn) is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
+
+[Keystone](https://github.com/keystone-engine/keystone) is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
+
+
+# 69. FPGA
+
+[Back to the Top](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#table-of-contents)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/104069966-ab060f00-51ba-11eb-8295-d3479b485c86.png">
+  <br />
+  FPGA Guide
+</h1>
+
+#### A guide covering FPGA(Field Programmable Gate Arrays) devices such as the PolarFire®, Artix 7 , Spartan 6  and Zynq-7000. Along with the tools, applications and libraries that will make you a better and more efficient developer with FPGA devices. Also, learn about cool projects that you can build with your FPGA device.
+
+
+
+[Checkout the PolarFire® FPGA Development Kits](https://www.microsemi.com/product-directory/dev-kits-solutions/3864-polarfire-kits)
+
+<img src="https://user-images.githubusercontent.com/45159366/104068349-97a67400-51b9-11eb-82b5-d06f804400ee.png">
+
+
+[Checkout the Artix 7 FPGA Development board](https://store.digilentinc.com/basys-3-artix-7-fpga-trainer-board-recommended-for-introductory-users/)
+
+<img src="https://user-images.githubusercontent.com/45159366/104068359-9d03be80-51b9-11eb-9bd2-0045e8f45eb9.png">
+
+
+[Checkout the Spartan 6 FPGA Development board](https://store.digilentinc.com/anvyl-spartan-6-fpga-trainer-board/)
+
+<img src="https://user-images.githubusercontent.com/45159366/104068361-9e34eb80-51b9-11eb-9c68-0b59c5a107e1.png">
+
+
+
+[Checkout the Zynq-7000 for ARM/FPGA SoC Development board](https://store.digilentinc.com/cora-z7-zynq-7000-single-core-and-dual-core-options-for-arm-fpga-soc-development/)
+
+<img src="https://user-images.githubusercontent.com/45159366/104068367-a12fdc00-51b9-11eb-966a-08a0868fcfb7.png">
+
+
+## Resources
+ 
+[FPGA(Field Programmable Gate Arrays)](https://www.xilinx.com/products/silicon-devices/fpga/what-is-an-fpga.html) are semiconductor devices that are based around a matrix of configurable logic blocks (CLBs) connected via programmable interconnects. FPGAs can be reprogrammed to desired application or functionality requirements after manufacturing.
+
+[TinyFPGA](https://tinyfpga.com) is a new series of boards that are low-cost, [open source FPGA boards](https://github.com/tinyfpga) in a tiny form factor.
+
+[SiFive FPGA shells](https://github.com/sifive/fpga-shells)
+
+[FPGA & SoC Design Tools from Microsemi](https://www.microsemi.com/product-directory/fpga-soc/1637-design-resources)
+
+[QuickLogic Embedded FPGA (eFPGA) Intellectual Property (IP) and Software](https://www.quicklogic.com/products/efpga/efpga-ip-software/)
+
+[FPGA for Beginners with Development Boards from Digilent®](https://store.digilentinc.com/fpga-for-beginners/)
+
+[Hundreds of FPGA Projects on Instructables](https://www.instructables.com/circuits/howto/FPGA/)
+ 
+[FPGA Fundamentals from NI(National Instruments)](https://www.ni.com/en-us/innovations/white-papers/08/fpga-fundamentals.html)
+
+[Getting Started With LabVIEW FPGA from NI(National Instruments)](https://www.ni.com/tutorial/14532/en/)
+ 
+[Programming and FPGA Basics - INTEL® FPGAS](https://www.intel.com/content/www/us/en/products/programmable/fpga/new-to-fpgas/resource-center/overview.html)
+ 
+[Intel FPGA Training Program](https://www.intel.com/content/www/us/en/programmable/support/training/overview.html)
+ 
+[FPGA Courses on Coursera](https://www.coursera.org/courses?query=fpga)
+ 
+[FPGA Courses on Udemy](https://www.udemy.com/topic/fpga/)
+ 
+[FPGA Online Training Courses on LinkedIn Learning](https://www.linkedin.com/learning/topics/fpga)
+
+[UMass Lowell's Graduate Certificate in Field Programmable Gate Arrays(FPGA)](https://gps.uml.edu/certificates/grad/online-field-programmable-gate-arrays-bae-graduate-certificate.cfm)
+
+[FPGA Design Fundamentals Course (UC San Diego Extension)](https://extension.ucsd.edu/courses-and-programs/fpga-design-fundamentals)
+
+[FPGA II Course (UC San Diego Extension)](https://extension.ucsd.edu/courses-and-programs/fpga-embedded-design)
+
+[FPGAs & SoCs Training from Microsemi](https://www.microsemi.com/product-directory/training/4244-fpgas-socs-training)
+ 
+[DSP fundamentals for FPGAs course from MATLAB and Simulink Training](https://www.mathworks.com/training-schedule/dsp-for-fpgas.html)
+ 
+[Verilog Courses on Coursera](https://www.coursera.org/courses?query=verilog)
+
+
+## Tools
+
+[LabVIEW FPGA](https://www.ni.com/en-us/shop/software/products/labview-fpga-module.html) is a software add-on for LabVIEW that you can use to more efficiently and effectively design FPGA-based systems through a highly integrated development environment, IP libraries, a high-fidelity simulator, and debugging features.
+
+[Apio](https://github.com/FPGAwars/apio) is a multiplatform toolbox, with static pre-built packages, project configuration tools and easy command interface to verify, synthesize, simulate and upload your verilog designs.
+
+[IceStorm](https://github.com/YosysHQ/icestorm) is a project that aims at documenting the bitstream format of Lattice iCE40 FPGAs and providing simple tools for analyzing and creating bitstream files.
+
+[Icestudio](https://icestudio.io/) is a visual editor for open FPGA boards. Built on top of the Icestorm project using Apio.
+
+[FuseSoC](https://github.com/olofk/fusesoc) is an award-winning package manager and a set of build tools for HDL (Hardware Description Language) code and FPGA/ASIC development.
+ 
+[OpenWiFi](https://github.com/open-sdr/openwifi) is an open-source IEEE802.11/Wi-Fi baseband chip/FPGA design.
+ 
+[PipeCNN](https://github.com/doonny/PipeCNN) is an OpenCL-based FPGA Accelerator for Large-Scale Convolutional Neural Networks (CNNs). Currently, there is a growing trend among developers in the FPGA community to utilize High Level Synthesis (HLS) tools to design and implement customized circuits on FPGAs.
+
+[Verilator](https://verilator.org/) is an open-source SystemVerilog simulator and lint system.
+
+[Verilog to Routing(VTR)](https://verilogtorouting.org/) is a collaborative project to provide a open-source framework for conducting FPGA architecture and CAD Research & Development. The VTR design flow takes as input a Verilog description of a digital circuit, and a description of the target FPGA architecture.
+
+[PlatformIO](https://platformio.org/) is a professional collaborative platform for embedded development with no vendor lock-in. It provides support for multiplatforms and frameworks such as IoT, Arduino, CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, Pulp OS, SPL, STM32Cube, Zephyr RTOS, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), NXP i.MX RT, PIC32, RISC-V.
+
+[PlatformIO for VSCode](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) is a plugin that provides support for the PlatformIO IDE on VSCode.
+ 
+[Tock](https://www.tockos.org/) is an embedded operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M and RISC-V based embedded platforms. Tock's design centers around protection, both from potentially malicious applications and from device drivers. 
+
+[OpenTimer](https://github.com/OpenTimer/OpenTimer) is a High-Performance Timing Analysis Tool for VLSI Systems.
+
+[LLVM](https://github.com/llvm/) is a library that has collection of modular/reusable compiler and toolchain  components (assemblers, compilers, debuggers, etc.). With these components LLVM can be used as a compiler framework, providing a front-end(parser and lexer) and a back-end (code that converts LLVM's representation to actual machine code).
+
+[TinyGo](https://tinygo.org/) is a Go compiler(based on LLVM) intended for use in small places such as microcontrollers, WebAssembly (Wasm), and command-line tools.
+
+[Chipyard](https://chipyard.readthedocs.io/en/latest/) is an open source framework for agile development of Chisel-based systems-on-chip. It will allow you to leverage the Chisel HDL, Rocket Chip SoC generator, and other [Berkeley](https://berkeley.edu/) projects to produce a RISC-V SoC with everything from MMIO-mapped peripherals to custom accelerators.
+
+[The Eclipse Embedded CDT](https://github.com/eclipse-embed-cdt/eclipse-plugins) is a collection of plug-ins for Arm & RISC-V C/C++ developers.
+[Unicorn](https://github.com/unicorn-engine/unicorn) is a lightweight, multi-platform, multi-architecture CPU emulator framework(ARM, AArch64, M68K, Mips, Sparc, X86) based on [QEMU](https://www.qemu.org/).
+
+[Keystone](https://github.com/keystone-engine/keystone) is a lightweight multi-platform, multi-architecture(Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) assembler framework.
+
+[Reko](https://github.com/uxmal/reko) is a decompiler for machine code binaries.
+
+[Renode](https://renode.io/) is [Antmicro's](https://antmicro.com) virtual development framework for multinode embedded networks (both wired and wireless) and is intended to enable a scalable workflow for creating effective, tested and secure IoT systems.
+
+[Diosix](https://diosix.org/) is a lightweight, secure, multiprocessor bare-metal hypervisor written in Rust for RISC-V.
+
 
 ## License
 [Back to the Top](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#table-of-contents)
