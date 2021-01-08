@@ -14,7 +14,7 @@ HandBook Version 1.0, 2021
 
 [View License](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#license)
 
-**View/Download this Developer Handbook as PDF:** [Developer Handbook v1.0.pdf](https://github.com/mikeroyal/Developer-Handbook/files/5766942/Developer.Handbook.v1.0.pdf)
+[Contributing](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#contribute)
 
 **Note 1**: This Developer handbook will be continuously updated and improved with new topics, diagrams, code samples, and other content throughout 2021 & beyond. This handook will also be available in other document formats such as PDF, [AsciiDoc](https://asciidoc.org) using [Asciidoctor](https://asciidoctor.org) and [MkDocs](https://www.mkdocs.org/), which is a fast and simple  static site generator that's geared towards building project documentation. 
 
@@ -48,7 +48,7 @@ HandBook Version 1.0, 2021
 |20. [Kotlin](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#20-kotlin)|40. [Firebase](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#40-firebase)|60. [RISC-V](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#60-risc-v)
 |61. [Serverless](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#61-serverless)| 62.[XML](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#62-xml) | 63. [Verilog/SystemVerilog](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#63-verilog-\-systemverilog)|
 |64. [Quantum Computing](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#64-quantum-computing)|65. [Data Structures & Algorithms](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#65-data-structures--algorithms)|66. [Differential Privacy](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#66-differential-privacy)|
-|67. [Raspberry Pi](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#67-raspberry-pi)||
+|67. [Raspberry Pi](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#67-raspberry-pi)|68. [Arduino](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#68-arduino)|69. [FPGA](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#69-fpga)
 
 
 
@@ -6510,6 +6510,12 @@ automatically discovers the right configuration for your services.
 [Renode](https://renode.io/) is [Antmicro's](https://antmicro.com) virtual development framework for multinode embedded networks (both wired and wireless) and is intended to enable a scalable workflow for creating effective, tested and secure IoT systems.
 
 [Diosix](https://diosix.org/) is a lightweight, secure, multiprocessor bare-metal hypervisor written in Rust for RISC-V.
+
+
+## Contribute
+[Back to the Top](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#table-of-contents)
+
+[ x] If would you like to contribute to this handbook simply make a [Pull Request](https://github.com/mikeroyal/Developer-Handbook/pulls).
 
 
 ## License
