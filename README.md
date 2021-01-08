@@ -6515,7 +6515,7 @@ automatically discovers the right configuration for your services.
 ## Contribute
 [Back to the Top](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#table-of-contents)
 
-[ x] If would you like to contribute to this handbook simply make a [Pull Request](https://github.com/mikeroyal/Developer-Handbook/pulls).
+- [x] If would you like to contribute to this handbook simply make a [Pull Request](https://github.com/mikeroyal/Developer-Handbook/pulls).
 
 
 ## License
