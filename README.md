@@ -27,8 +27,10 @@ HandBook Version 1.0, @2021
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/104235195-789e2100-5409-11eb-9074-65109726c786.jpg">
   <br />
+</h1>
 
-
+<h4 align="center">
+	
 | Section 1 | Section 2 | Section 3 |
 | --------------- | --------------- | --------------- |
 | 1. [DevOps](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#1-devops)|  21. [Swift](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#21-swift)| 41. [Objective-C](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#41-objective-c)|
@@ -56,7 +58,9 @@ HandBook Version 1.0, @2021
 |67. [Raspberry Pi](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#67-raspberry-pi)|68. [Arduino](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#68-arduino)|69. [FPGA](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#69-fpga)|
 |70. [Wayland](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#70-wayland)||
 
-</h1>
+  <br />
+</h4>
+
 
 # 1. DevOps 
 
@@ -6665,7 +6669,12 @@ automatically discovers the right configuration for your services.
 
 #### A guide covering Wayland a small display server protocol and IPC(Inter-process communication) library. This includes the applications, libraries and tools that will make you a better and more efficient developer with Wayland.
 
+**Running Wayland on Ubuntu 20.04**
 
+ <img src="https://user-images.githubusercontent.com/45159366/104235200-7a67e480-5409-11eb-8d51-1d26aa18f4a7.png">
+ 
+ **Note:** Wayland does run by default on the [Fedora](https://getfedora.org/) desktop.
+ 
 
 ## Contribute
 [Back to the Top](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#table-of-contents)
