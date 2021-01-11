@@ -23,13 +23,6 @@ HandBook Version 1.0, @2021
 
 
 # Table of Contents
-
-<h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/104235195-789e2100-5409-11eb-9074-65109726c786.jpg">
-  
-</h1>
-
-<h4 align="center">
 	
 | Section 1 | Section 2 | Section 3 |
 | --------------- | --------------- | --------------- |
@@ -58,8 +51,6 @@ HandBook Version 1.0, @2021
 |67. [Raspberry Pi](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#67-raspberry-pi)|68. [Arduino](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#68-arduino)|69. [FPGA](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#69-fpga)|
 |70. [Wayland](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#70-wayland)||
 
-  <br />
-</h4>
 
 
 # 1. DevOps 
