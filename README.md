@@ -16,6 +16,8 @@ HandBook Version 1.0, @2021
 
 [Contributing](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#contribute)
 
+**View/Download this Handbook as a PDF: [Developer Handbook v1.0.pdf](https://github.com/mikeroyal/Developer-Handbook/files/5798339/Developer.Handbook.v1.0.pdf) **
+
 **Note 1**: This Developer handbook will be continuously updated and improved with new topics, diagrams, code samples, and other content throughout 2021 & beyond. This handook will also be available in other document formats such as PDF, [AsciiDoc](https://asciidoc.org) using [Asciidoctor](https://asciidoctor.org) and [MkDocs](https://www.mkdocs.org/), which is a fast and simple  static site generator that's geared towards building project documentation. 
 
 **Note 2**: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).
