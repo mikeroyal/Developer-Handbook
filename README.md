@@ -24,6 +24,12 @@ HandBook Version 1.0, 2021
 
 # Table of Contents
 
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/104235195-789e2100-5409-11eb-9074-65109726c786.jpg">
+  <br />
+ 
+</h1>
+
 | Section 1 | Section 2 | Section 3 |
 | --------------- | --------------- | --------------- |
 | 1. [DevOps](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#1-devops)|  21. [Swift](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#21-swift)| 41. [Objective-C](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#41-objective-c)|
@@ -48,8 +54,8 @@ HandBook Version 1.0, 2021
 |20. [Kotlin](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#20-kotlin)|40. [Firebase](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#40-firebase)|60. [RISC-V](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#60-risc-v)
 |61. [Serverless](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#61-serverless)| 62.[XML](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#62-xml) | 63. [Verilog/SystemVerilog](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#63-verilog-\-systemverilog)|
 |64. [Quantum Computing](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#64-quantum-computing)|65. [Data Structures & Algorithms](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#65-data-structures--algorithms)|66. [Differential Privacy](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#66-differential-privacy)|
-|67. [Raspberry Pi](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#67-raspberry-pi)|68. [Arduino](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#68-arduino)|69. [FPGA](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#69-fpga)
-
+|67. [Raspberry Pi](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#67-raspberry-pi)|68. [Arduino](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#68-arduino)|69. [FPGA](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#69-fpga)|
+|70. [Wayland](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#70-wayland)||
 
 
 
