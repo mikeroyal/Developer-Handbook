@@ -10,7 +10,7 @@
 
 #### A Developer Handbook covering a variuous of Computer Architectures, Programming languages, Security, Networking, Game Developement, Graphics programming, Agile Development, etc.. This handbook also includes the Applications, Frameworks, Libraries and Tools that will make you a better and more efficient developer within each of Development.
 
-HandBook Version 1.0, 2021
+HandBook Version 1.0, @2021
 
 [View License](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#license)
 
@@ -27,8 +27,7 @@ HandBook Version 1.0, 2021
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/104235195-789e2100-5409-11eb-9074-65109726c786.jpg">
   <br />
- 
-</h1>
+
 
 | Section 1 | Section 2 | Section 3 |
 | --------------- | --------------- | --------------- |
@@ -57,7 +56,7 @@ HandBook Version 1.0, 2021
 |67. [Raspberry Pi](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#67-raspberry-pi)|68. [Arduino](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#68-arduino)|69. [FPGA](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#69-fpga)|
 |70. [Wayland](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#70-wayland)||
 
-
+</h1>
 
 # 1. DevOps 
 
@@ -6653,6 +6652,19 @@ automatically discovers the right configuration for your services.
 [Renode](https://renode.io/) is [Antmicro's](https://antmicro.com) virtual development framework for multinode embedded networks (both wired and wireless) and is intended to enable a scalable workflow for creating effective, tested and secure IoT systems.
 
 [Diosix](https://diosix.org/) is a lightweight, secure, multiprocessor bare-metal hypervisor written in Rust for RISC-V.
+
+# 70. Wayland 
+
+[Back to the Top](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#table-of-contents)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/104235197-79cf4e00-5409-11eb-97a6-a12f7bd8ad2a.png">
+  <br />
+  Wayland Guide
+</h1>
+
+#### A guide covering Wayland a small display server protocol and IPC(Inter-process communication) library. This includes the applications, libraries and tools that will make you a better and more efficient developer with Wayland.
+
 
 
 ## Contribute
