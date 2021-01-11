@@ -26,7 +26,7 @@ HandBook Version 1.0, @2021
 
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/104235195-789e2100-5409-11eb-9074-65109726c786.jpg">
-  <br />
+  
 </h1>
 
 <h4 align="center">
@@ -6675,6 +6675,52 @@ automatically discovers the right configuration for your services.
  
  **Note:** Wayland does run by default on the [Fedora](https://getfedora.org/) desktop.
  
+ ## Resources
+
+[Wayland](https://wayland.freedesktop.org) is a protocol for a compositor to talk to its clients as well as a C library implementation of that protocol. The compositor can be a standalone display server running on Linux kernel modesetting and evdev input devices, an [X application](https://www.x.org/wiki/XServer/), or a wayland client itself.
+
+[Wayland Architecture](https://wayland.freedesktop.org/architecture.html)
+
+[Wayland Documentation](https://wayland.freedesktop.org/docs/html/)
+
+[Sotfware Toolkits that have Wayland support right now](https://wayland.freedesktop.org/toolkits.html)
+
+[Contribution instructions for Wayland](https://gitlab.freedesktop.org/wayland/wayland/blob/master/CONTRIBUTING.md)
+
+[Contribution instructions for Weston](https://gitlab.freedesktop.org/wayland/weston/blob/master/CONTRIBUTING.md)
+
+[Reporting Wayland bugs](https://gitlab.freedesktop.org/wayland/wayland/issues)
+
+[Reporting Weston bugs](https://gitlab.freedesktop.org/wayland/weston/issues)
+
+[WSLG: X11 and Wayland Applications in Windows Subsystem for Linux(WSL2)](https://linuxplumbersconf.org/event/9/contributions/611/attachments/702/1298/XDC2020_-_X11_and_Wayland_applications_in_WSL.pdf)
+
+[Qt Wayland Compositor](https://doc.qt.io/qt-5/qtwaylandcompositor-index.html)
+
+[Qt Wayland Compositor Examples](https://doc.qt.io/qt-5/qtwaylandcompositor-examples.html)
+
+[Wayland on ArchWiki](https://wiki.archlinux.org/index.php/Wayland)
+
+[Sway on ArchWiki](https://wiki.archlinux.org/index.php/Sway)
+
+[Wayland on Ubuntu Wiki](https://wiki.ubuntu.com/Wayland)
+
+[Wayland on Debian Wiki](https://wiki.debian.org/Wayland)
+
+[The Wayland Display Server on Fedora Docs](https://docs.fedoraproject.org/en-US/fedora/rawhide/system-administrators-guide/Wayland/)
+
+[Wayland features on Fedora Project Wiki](https://fedoraproject.org/wiki/Wayland_features)
+
+[Wayland on GNOME Wiki](https://wiki.gnome.org/Initiatives/Wayland)
+
+[KWin/Wayland on KDE Community Wiki](https://community.kde.org/index.php?title=KWin/Wayland)
+
+[Wayland Desktop Landscape on Gentoo Wiki](https://wiki.gentoo.org/wiki/Wayland_Desktop_Landscape)
+
+[Wayland in Void Linux Handbook](https://docs.voidlinux.org/config/graphical-session/wayland.html)
+
+[Wayland on Enlightenment DE](https://www.enlightenment.org/about-wayland)
+
 
 ## Contribute
 [Back to the Top](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#table-of-contents)
