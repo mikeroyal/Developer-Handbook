@@ -6890,7 +6890,7 @@ automatically discovers the right configuration for your services.
 [Back to the Top](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#table-of-contents)
 
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/104789178-19ae1400-5749-11eb-85c8-85d1b4750f25.png">
   <br />
   jQuery Guide
 </h1>
