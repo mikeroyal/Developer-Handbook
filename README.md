@@ -16,7 +16,7 @@ HandBook Version 1.0, 2021
 
 [Contributing](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#contribute)
 
-**View/Download Handbook as a PDF: [Developer Handbook v1.0.pdf](https://github.com/mikeroyal/Developer-Handbook/files/5798339/Developer.Handbook.v1.0.pdf)**
+**View/Download Handbook as a PDF: [Developer Handbook v1.0.pdf](https://github.com/mikeroyal/Developer-Handbook/files/5826921/Developer.handbook.v1.0.pdf)**
 
 **Note 1**: This Developer handbook will be continuously updated and improved with new topics, diagrams, code samples, and other content throughout 2021 & beyond. This handook will also be available in other document formats such as PDF, [AsciiDoc](https://asciidoc.org) using [Asciidoctor](https://asciidoctor.org) and [MkDocs](https://www.mkdocs.org/), which is a fast and simple  static site generator that's geared towards building project documentation. 
 
@@ -202,6 +202,8 @@ HandBook Version 1.0, 2021
 [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/) creates virtual machines on Windows 10. Hyper-V can be enabled in many ways including using the Windows 10 control panel, PowerShell or using the Deployment Imaging Servicing and Management tool (DISM).
 
 [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+
+[Intel® Graphics Virtualization Technology (Intel® GVT)](https://github.com/intel/gvt-linux) is a full GPU virtualization solution with mediated pass-through, starting from 4th generation Intel Core (TM) processors with Intel processor graphics(Broadwell and newer). It can be used to virtualize the GPU for multiple guest virtual machines, effectively providing near-native graphics performance in the virtual machine and still letting your host use the virtualized GPU normally.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
@@ -897,6 +899,8 @@ It is extended by a set of privacy-specific requirements, control objectives and
 [Tutorials for Setting up Linux workspaces on DigitalOcean](https://www.digitalocean.com/community/tutorials?q=linux)
 
 [DigitalOcean Marketplace](https://marketplace.digitalocean.com/)
+
+[Linode](https://www.linode.com/)
 
 # 5. Networking 
 
