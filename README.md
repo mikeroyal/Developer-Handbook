@@ -6972,6 +6972,71 @@ automatically discovers the right configuration for your services.
 
 [Featherlight](https://github.com/noelboss/featherlight) is a very lightweight jQuery lightbox plugin. It's simple yet flexible and easy to use. 
 
+# 73. FinOps
+
+[Back to the Top](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#table-of-contents)
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/105409940-0d610580-5be6-11eb-86c5-6fd14cd1feb3.png">
+  <br />
+  FinOps Guide
+</h1>
+
+#### A guide covering FinOps including the applications, tools and training that will make your development team better and more efficient at Cloud Financial Management.
+
+
+<img src="https://user-images.githubusercontent.com/45159366/105409942-0e923280-5be6-11eb-8c96-cf46449e0dd7.png">
+ 
+ **FinOps Team Structure. Source: [FinOps Foundation](https://www.finops.org/what-is-finops/), 2020.**
+ 
+ 
+## Resources
+ 
+[FinOps(finance operations)](https://www.finops.org/) is the practice of bringing financial accountability to the variable spend model of cloud, enabling distributed teams to make business trade-offs between speed, cost, and quality. At its core, FinOps is a cultural practice for Cloud Financial Management. The [FinOps Foundation joins the Linux Foundation in August 2020](https://www.linuxfoundation.org/en/press-release/finops-foundation-quickly-gains-industry-wide-support-to-advance-cloud-financial-management-and-education/).
+
+[Linux Foundation](https://www.linuxfoundation.org/) is home to Linux, Node.js and other mission critical projects that form the backbone of modern internet services, including Pinterest. Joining The Linux Foundation is a great way for established companies like ours to support those communities. 
+
+[FinOps Landscape](https://landscape.finops.org/)
+
+[FinOps Foundation Principles](https://www.finops.org/finops-foundation-values/)
+
+[FinOps Technical Advisory Council (TAC)](https://www.finops.org/technical-advisory-council/)
+
+[The FinOps Ambassadors program](https://www.finops.org/finops-ambassador/)
+
+[Introduction to FinOps](https://training.linuxfoundation.org/training/introduction-to-finops-lfs175/)
+
+[FinOps Training & Certification](https://www.finops.org/certification/)
+
+[FinOps Certified Platform](https://www.finops.org/finops-certified-platform/)
+
+[FinOps Certified Service Provider](https://www.finops.org/finops-certified-service-provider/)
+
+[FinOps Training Partner](https://www.finops.org/finops-training-partner/)
+
+[FinOps Foundation Training Events](https://www.finops.org/events/)
+
+[FinOps at your Organization course on Udemy](https://www.udemy.com/course/finops-at-your-organization/)
+
+[FinOps Foundation GitHub](https://github.com/finopsfoundation)
+
+[Rate Optimization: Google Cloud CUD & Big Query Strategy](https://www.finops.org/blog/google-cloud-cud-big-query-strategy-session/)
+
+[AWS Savings Plans and FinOps](https://www.finops.org/blog/aws-savings-plans-and-finops/)
+
+[Introducing FinOps fro AWS Cloud](https://aws.amazon.com/blogs/enterprise-strategy/introducing-finops-excuse-me-devsecfinbizops/)
+
+[Using FinOps with AWS by Apptio Cloudability](https://www.apptio.com/blog/using-finops-with-aws/)
+
+[Cloud Economics v2.0 - Part 1: FinOps](https://www.linkedin.com/pulse/cloud-economics-v20-part-1-anders-bonde)
+
+
+## Tools
+
+[Dynamics 365 Finance and Operations Tools](https://marketplace.visualstudio.com/items?itemName=Dyn365FinOps.dynamics365-finops-tools) is an extension for Visual Studio provides Azure DevOps build and release tasks for Dynamics 365 Finance and Operations and Dynamics Lifecycle Services.
+
+[Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
+
 
 ## Contribute
 [Back to the Top](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#table-of-contents)
