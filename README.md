@@ -52,6 +52,7 @@ HandBook Version 1.0, 2021
 |64. [Quantum Computing](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#64-quantum-computing)|65. [Data Structures & Algorithms](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#65-data-structures--algorithms)|66. [Differential Privacy](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#66-differential-privacy)|
 |67. [Raspberry Pi](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#67-raspberry-pi)|68. [Arduino](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#68-arduino)|69. [FPGA](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#69-fpga)|
 |70. [Wayland](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#70-wayland)|71. [Electron](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#71-electron)|72. [jQuery](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#72-jquery)|
+73. [FinOps](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#73-finops)|74. [Telco 5G](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#74-telco-5g)|
 
 
 
