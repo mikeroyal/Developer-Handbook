@@ -5945,6 +5945,15 @@ automatically discovers the right configuration for your services.
 
 #### A guide covering  Quantum Computing  including the applications, libraries and tools that will make you a better and more efficient developer in Quantum Computing.
 
+<img src="https://user-images.githubusercontent.com/45159366/105409494-611f1f00-5be5-11eb-963f-e3c5f5d805f6.jpeg">
+ 
+ **A look inside of the IBM Q System One machine. Source: [IBM Research Quantum Experience](https://www.research.ibm.com/quantum-computing/system-one/), 2020.**
+ 
+ 
+ <img src="https://user-images.githubusercontent.com/45159366/105409495-62504c00-5be5-11eb-800c-7f24ff83bd65.jpeg">
+ 
+ **IBM Q System One machine Overview. Source: [IBM Research Quantum Experience](https://www.research.ibm.com/quantum-computing/system-one/), 2020.**
+
 ## Resources
 
 [Quantum computing](https://docs.microsoft.com/en-us/quantum/overview/understanding-quantum-computing) is the use of principles in quantum mechanics such as [superposition](https://en.wikipedia.org/wiki/Quantum_superposition) and [entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement) to process information. Quantum computing will play a big role in the innovation of artificial intelligence and machine learning.
