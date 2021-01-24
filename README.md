@@ -4648,6 +4648,52 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 #### A guide covering Robotics including the applications, libraries and tools that will make you a better and more efficient Robotics developer.
 
+**AWS DeepRacer autonomous Car Kit**
+<img src="https://user-images.githubusercontent.com/45159366/105645201-e35e4c00-5e4e-11eb-9df8-2cc91705b496.png">
+
+[Checkout the AWS DeepRacer autonomous Car Kit](https://www.amazon.com/AWS-DeepRacer-Fully-autonomous-developers/dp/B07JMHRKQG)
+
+**AWS DeepRacer autonomous Car Kit Hardware Specifications**
+
+ - CAR:	18th scale 4WD with monster truck chassis
+ - CPU:	Intel Atom™ Processor
+ - MEMORY:	4GB RAM
+ - STORAGE: 32GB (expandable)
+ - WI-FI:	802.11ac
+ - CAMERA:	 4 MP cameras with MJPEG
+ - SOFTWARE:	Ubuntu OS 16.04 LTS, Intel® OpenVINO™ toolkit, ROS Kinetic
+ - DRIVE BATTERY:	7.4V/1100mAh lithium polymer
+ - COMPUTE BATTERY:	13600mAh USB-C PD
+ - PORTS:	4x USB-A, 1x USB-C, 1x Micro-USB, 1x HDMI
+ - SENSORS:	Integrated accelerometer and gyroscope
+
+
+**AWS DeepRacer Evo autonomous Car Kit**
+
+<img src="https://user-images.githubusercontent.com/45159366/105645834-0ee23600-5e51-11eb-986b-ec3bbe7a8135.png">
+
+[Checkout the AWS DeepRacer Evo autonomous Car Kit](https://www.amazon.com/dp/B081GZSJVL)
+
+**AWS DeepRacer Evo autonomous Car Kit Hardware Specifications**
+
+ - CAR:	18th scale 4WD with monster truck chassis
+ - CPU:	Intel Atom™ Processor
+ - MEMORY:	4GB RAM
+ - STORAGE: 32GB (expandable)
+ - WI-FI:	802.11ac
+ - CAMERA:	Stereo 4 MP cameras with MJPEG
+ - **LIDAR Sensor:	360 Degree 12 Meters Scanning Radius LIDAR Sensor**
+ - SOFTWARE:	Ubuntu OS 16.04 LTS, Intel® OpenVINO™ toolkit, ROS Kinetic
+ - DRIVE BATTERY:	7.4V/1100mAh lithium polymer
+ - COMPUTE BATTERY:	13600mAh USB-C PD
+ - PORTS:	4x USB-A, 1x USB-C, 1x Micro-USB, 1x HDMI
+ - SENSORS:	Integrated accelerometer and gyroscope
+ 
+ [Checkout the SunFounder PiCar-V Kit V2.0 for Raspberry Pi](https://www.sunfounder.com/products/smart-video-car)
+
+<img src="https://user-images.githubusercontent.com/45159366/105645908-84e69d00-5e51-11eb-85a7-29b8074337ed.png">
+
+
 ## Resources
 
 [Robotics courses from Coursera](https://www.edx.org/learn/robotics)
