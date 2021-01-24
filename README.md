@@ -1367,6 +1367,8 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 [ARM](https://www.arm.com/) stands for Advanced RISC Machine, which is a collection of reduced instruction set computing architectures for CPUs configured for various development environments such servers, IoT, and other mobile devices. Arm was acquired by [NVIDIA](http://www.nvidia.com/page/home.html) in [September 2020](https://www.arm.com/company/news/2020/09/nvidia-to-acquire-arm).
 
+[NVIDIA CUDA on Arm](https://developer.nvidia.com/cuda-toolkit/arm)
+
 [Learning the Arm Architecture](https://developer.arm.com/architectures/learn-the-architecture)
 
 [Arm Development Tools and Software](https://www.arm.com/products/development-tools)
@@ -1381,7 +1383,13 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 [Improving performance of PHP for Arm64 and impact on AWS Graviton2 based EC2 instances](https://aws.amazon.com/blogs/compute/improving-performance-of-php-for-arm64-and-impact-on-amazon-ec2-m6g-instances/)
 
+[Google's "Whitechapel" 5nm SoC Chip for future Pixel devices & Chromebooks](https://www.axios.com/scoop-google-readies-its-own-chip-for-future-pixels-chromebooks-e5f8479e-4a38-485c-a264-9ef9cf68908c.html)
+
+[Qualcomm Snapdragon Mobile Platforms, Processors and Chipsets](https://www.qualcomm.com/snapdragon)
+
 [Windows 10 on ARM ](https://docs.microsoft.com/en-us/windows/arm/)
+
+[Introducing x64 emulation in preview for Windows 10 on ARM PCs to the Windows Insider Program](https://blogs.windows.com/windows-insider/2020/12/10/introducing-x64-emulation-in-preview-for-windows-10-on-arm-pcs-to-the-windows-insider-program/)
 
 [Porting UWP applications for Windows 10 on ARM](https://docs.microsoft.com/en-us/windows/uwp/porting/apps-on-arm)
 
@@ -1397,6 +1405,10 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 [Manjaro Linux ARM](https://manjaro.org/download/#ARM)
 
+[SUSE Linux Enterprise Server for Arm](https://www.suse.com/products/arm/)
+
+[openSUSE Arm](https://en.opensuse.org/Portal:ARM)
+
 [Raspberry Pi board computers](https://www.raspberrypi.org/)
 
 [NVIDIA Jetson Nano 2GB Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-2gb-developer-kit)
@@ -1410,6 +1422,10 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 [Microcontroller Courses from Coursera](https://www.coursera.org/courses?query=microcontroller)
 
 ## Apple Silicon Resources
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/105645197-de010180-5e4e-11eb-823b-c2152b3223ef.jpeg">
+</h1>
 
 [Does it ARM? Apps that are reported to support Apple Silicon](https://doesitarm.com)
 
