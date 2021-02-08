@@ -53,7 +53,7 @@ HandBook Version 1.0, 2021
 |67. [Raspberry Pi](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#67-raspberry-pi)|68. [Arduino](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#68-arduino)|69. [FPGA](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#69-fpga)|
 |70. [Wayland](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#70-wayland)|71. [Electron](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#71-electron)|72. [jQuery](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#72-jquery)|
 |73. [FinOps](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#73-finops)|74. [Telco 5G](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#74-telco-5g)|75. [Ubuntu](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#75-ubuntu)|
-|76. [Pop!_OS](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#76-pop!_os)|77. [Fedora](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#77-fedora)|
+|76. [Pop!_OS](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#76-pop_os)|77. [Fedora](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#77-fedora)|
 
 
 
