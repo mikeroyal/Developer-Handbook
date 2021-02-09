@@ -54,7 +54,7 @@ HandBook Version 1.0, 2021
 |70. [Wayland](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#70-wayland)|71. [Electron](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#71-electron)|72. [jQuery](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#72-jquery)|
 |73. [FinOps](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#73-finops)|74. [Telco 5G](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#74-telco-5g)|75. [Ubuntu](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#75-ubuntu)|
 |76. [Pop!_OS](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#76-pop_os)|77. [Fedora](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#77-fedora)|78.[Debian](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#78-debian)|
-|79. [SUSE/openSUSE](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#79-suse-opensuse)|80. [Arch Linux](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#80-arch-linux)|
+|79. [SUSE/openSUSE](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#79-suseopensuse)|80. [Arch Linux](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#80-arch-linux)|
 
 
 
@@ -8382,7 +8382,7 @@ sudo dnf install qemu uml-utilities virt-manager gnome-boxes
 
 [GitLab extension](https://extensions.gnome.org/extension/3535/gitlab-extension/) is a GNOME Shell extension that lets you utilizes the official GitLab API to provide a comfortable overview about your projects, commits & pipelines.
 
-#78. Debian
+# 78. Debian
 
 [Back to the Top](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#table-of-contents)
 
