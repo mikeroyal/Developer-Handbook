@@ -8195,10 +8195,7 @@ sudo systemctl status firewalld
  
  ## Snaps
  
- ```sh 
-sudo apt install snapd
-sudo apt install gnome-software-plugin-snap
-```
+[Installing snap on Fedora](https://snapcraft.io/docs/installing-snap-on-fedora)
 
 [Snap Store](https://snapcraft.io/store) is a build and distribution service for Snap applications.
 
