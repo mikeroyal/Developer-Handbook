@@ -54,7 +54,8 @@ HandBook Version 1.0, 2021
 |70. [Wayland](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#70-wayland)|71. [Electron](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#71-electron)|72. [jQuery](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#72-jquery)|
 |73. [FinOps](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#73-finops)|74. [Telco 5G](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#74-telco-5g)|75. [Ubuntu](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#75-ubuntu)|
 |76. [Pop!_OS](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#76-pop_os)|77. [Fedora](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#77-fedora)|78. [Debian](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#78-debian)|
-|79. [SUSE/openSUSE](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#79-suseopensuse)|80. [Arch Linux](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#80-arch-linux)| 81. [Linux Mint](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#81-linux-mint)
+|79. [SUSE/openSUSE](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#79-suseopensuse)|80. [Arch Linux](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#80-arch-linux)| 81. [Linux Mint](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#81-linux-mint)|
+|82. [elementaryOS](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#82-elementaryos)||
 
 
 
@@ -9858,6 +9859,328 @@ sudo apt install qemu uml-utilities virt-manager gnome-boxes
 ## Advanced Topics
 
 **Below are some of my favorite Ubuntu tutorials from [DigitalOcean](https://www.digitalocean.com/) but also work well Linux Mint.**
+
+[How To Set Up Multi-Factor Authentication for SSH on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-multi-factor-authentication-for-ssh-on-ubuntu-20-04)
+
+[How To Configure Nginx as a Web Server and Reverse Proxy for Apache on One Ubuntu 20.04 Server](https://www.digitalocean.com/community/tutorials/how-to-configure-nginx-as-a-web-server-and-reverse-proxy-for-apache-on-one-ubuntu-20-04-server)
+
+[How To Install and Configure Postfix on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-on-ubuntu-20-04)
+
+[How To Install and Use SQLite on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-sqlite-on-ubuntu-20-04)
+
+[How To Deploy a React Application with Nginx on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-react-application-with-nginx-on-ubuntu-20-04)
+
+[How to Optimize WordPress on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-optimize-wordpress-on-ubuntu-20-04)
+
+[How To Acquire a Let's Encrypt Certificate Using DNS Validation with certbot-dns-digitalocean on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-acquire-a-let-s-encrypt-certificate-using-dns-validation-with-certbot-dns-digitalocean-on-ubuntu-20-04)
+
+[How To Build a Slackbot in Python on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-build-a-slackbot-in-python-on-ubuntu-20-04)
+
+[How To Back Up, Restore, and Migrate a MongoDB Database on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-back-up-restore-and-migrate-a-mongodb-database-on-ubuntu-20-04)
+
+[How To Set Up an Ubuntu 20.04 Server on a DigitalOcean Droplet](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ubuntu-20-04-server-on-a-digitalocean-droplet)
+
+[How To Set Up Physical Streaming Replication with PostgreSQL 12 on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-physical-streaming-replication-with-postgresql-12-on-ubuntu-20-04)
+
+[How To Install and Use Docker Compose on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04)
+
+[How To Remotely Access GUI Applications Using Docker and Caddy on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-remotely-access-gui-applications-using-docker-and-caddy-on-ubuntu-20-04)
+
+[How To Install MySQL on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04)
+
+[How To Set Up Mattermost on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-mattermost-on-ubuntu-20-04)
+
+[How To Set Up a Remote Desktop with X2Go on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-remote-desktop-with-x2go-on-ubuntu-20-04)
+
+[How To Install and Configure Drone on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-drone-on-ubuntu-20-04)
+
+[How To Create a Self-Signed SSL Certificate for Apache in Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-apache-in-ubuntu-20-04)
+
+[How To Install the Django Web Framework on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-20-04)
+
+[How To Install Jenkins on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-20-04)
+
+[How To Use Traefik v2 as a Reverse Proxy for Docker Containers on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-use-traefik-v2-as-a-reverse-proxy-for-docker-containers-on-ubuntu-20-04)
+
+[How To Sandbox Processes With Systemd On Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-sandbox-processes-with-systemd-on-ubuntu-20-04)
+
+[How To Host a Website Using Cloudflare and Nginx on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-host-a-website-using-cloudflare-and-nginx-on-ubuntu-20-04)
+
+# 82. elementaryOS
+
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/107863668-f7bcb580-6e0a-11eb-8651-3a649f34e6ee.png">
+  <br />
+  elementaryOS Guide
+</h1>
+
+#### A guide on setting up your elementaryOS with all the essential Applications, Tools, and Games to make your experience with elementaryOS great! 
+
+# Getting Started
+
+[elementaryOS](https://elementary.io/) is a modern, elegant, and comfortable open source operating system(based on Debian and Ubuntu), which is both powerful and easy to use for both new and advanced users. It promotes itself as a "fast, open, and privacy-respecting" replacement to macOS and Windows and has a pay-what-you-want model for their App Center. 
+
+[Etcher](https://www.balena.io/etcher/) is an open source, cross-platform software that makes it easy to flash operating system images to a microSD card or USB device.
+ 
+ <img src="https://user-images.githubusercontent.com/45159366/107863669-f8ede280-6e0a-11eb-88ae-26804b4d80ac.png">
+ 
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/107863673-ff7c5a00-6e0a-11eb-9010-b2c6b26953bc.png">
+  <br />
+  elementaryOS Desktop
+</h1>
+
+## Enable Firewall
+
+```sh
+sudo ufw enable  //enables firewall
+sudo ufw status //checks status of firewall
+```
+# Getting Software
+
+## elementaryOS App Center
+ <img src="https://user-images.githubusercontent.com/45159366/107863674-00ad8700-6e0b-11eb-807c-58187c381670.png">
+
+**Note 1: All this software is also available in other popular Linux distributions such as [Debian](https://www.debian.org/), [Linux Mint](https://linuxmint.com/), [elementary OS](https://elementary.io/), [Pop!_OS](https://pop.system76.com/), [Fedora](https://getfedora.org), [Manjaro Linux](https://manjaro.org/), [EndeavourOS](https://endeavouros.com/) and [Arch Linux](https://archlinux.org/).**
+
+**Note 2: For new users not comfortable with using the command-line checkout the Essential Apps section to get started. Also, if you scroll down further you'll see other easy ways to get software applications through Flathub, Snap Store, and AppImages.**
+
+## Setting up GNOME Software Center(for those that don't want to use the App Center)
+
+```sh
+sudo apt install gnome-software 
+sudo apt install snapd
+sudo apt install gnome-software-plugin-snap
+sudo apt install flatpak
+sudo apt install gnome-software-plugin-flatpak
+```
+ <img src="https://user-images.githubusercontent.com/45159366/107159312-fb03fd00-6943-11eb-933c-188617e63fd1.png">
+
+## Essential Apps(depending on your workflow)
+
+[Google Chrome browser](https://www.google.com/chrome/)
+
+[Microsoft Edge browser](https://www.microsoftedgeinsider.com/en-us/download/?platform=linux)
+
+[Visual Studio Code](https://code.visualstudio.com/Download)
+
+[Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app)
+
+[Microsoft 365 with Office apps](https://www.microsoft.com/en-us/microsoft-365?legRedir=default&CorrelationId=335c4ab6-175d-4c4f-888d-15cfd03e4d32)
+
+[Google Workspace (formerly G Suite)](https://workspace.google.com/)
+
+[Zoom](https://zoom.us/download?os=linux)
+
+[Slack](https://slack.com/downloads/linux)
+
+[Trello](https://trello.com/platforms)
+
+[Skype](https://www.skype.com/en/get-skype/)
+
+[Spotify](https://www.spotify.com/us/download/linux/)
+
+[Discord](https://discord.com/download)
+
+[CrossOver Linux®](https://www.codeweavers.com/crossover) is a Microsoft Windows compatibility layer(based on [WINE(Wine Is Not an Emulator)](https://www.winehq.org)). The CrossOver compatibility layer enables thousands of Windows-based applications to run on Linux, macOS, or Chrome OS.
+[WinApps for Linux](https://github.com/Fmstrat/winapps) is a program that runs Windows apps such as Microsoft Office & Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration for right clicking on files of specific mime types to open them.
+
+[DaVinci Resolve video editor](https://www.blackmagicdesign.com/products/davinciresolve/) is complete video editing solution that combines professional 8K editing, color correction, visual effects and audio post production all in one software tool.
+
+[Reaper Audio editor](https://www.reaper.fm/download.php) is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.
+
+[Flameshot](https://flameshot.org/) is a powerful yet simple to use screenshot software.
+
+[Stacer](https://github.com/oguzhaninan/Stacer) is an open source system optimizer and application monitor that helps users to manage their entire system. Also available as an AppImage.
+
+[Nativefier](https://github.com/nativefier/nativefier) is a command-line tool to easily create a desktop app for any web site with minimal configuration. Apps are wrapped by [Electron](https://www.electronjs.org/) (which uses Chromium under the hood) in an OS executable (.app, .exe, etc) for use on Windows, macOS and Linux.
+
+
+## App Outlet
+
+[App Outlet](https://app-outlet.github.io/) is a Universal application store(Flatpaks, Snaps, and AppImages) inspired by the Linux App Store online service.
+
+ <img src="https://user-images.githubusercontent.com/45159366/106686354-0095c780-657f-11eb-892b-659d3252d6e7.png">
+
+## Flatpaks
+
+[FlatHub](https://flathub.org/) is a build and distribution service for Flatpak applications.
+
+[FlatHub Forum](https://discourse.flathub.org/)
+
+ <img src="https://user-images.githubusercontent.com/45159366/106686365-055a7b80-657f-11eb-9b58-1de28abe2e5b.png">
+ 
+## Snaps
+
+[Snap Store](https://snapcraft.io/store) is a build and distribution service for Snap applications.
+
+[Snapcraft Forum](https://forum.snapcraft.io/)
+
+ <img src="https://user-images.githubusercontent.com/45159366/106686375-08ee0280-657f-11eb-9918-5385d8c09148.png">
+ <img src="https://user-images.githubusercontent.com/45159366/106686378-0a1f2f80-657f-11eb-83aa-37ac96c7b032.png">
+
+## AppImages
+
+[AppImageHub](https://www.appimagehub.com) is a build and distribution service for AppImage applications.
+
+[AppImage Manager](https://github.com/AppImageCrafters/appimage-manager) is a package manager for AppImages.
+
+[AppImage Forum](https://discourse.appimage.org/)
+
+ <img src="https://user-images.githubusercontent.com/45159366/106686382-0b505c80-657f-11eb-9d74-9a94ec0d0693.png">
+
+# Gaming
+
+## Game Streaming
+
+[Geforce NOW](https://www.nvidia.com/en-us/geforce-now/download/) use the **Chromebook version** to play all your games in Google Chrome or any Chromium-based web browser such as Brave, Vivaldi, and Microsoft Edge. Also, available as a Electron Desktop App in the [Snap store Geforce NOW](https://snapcraft.io/geforcenow).
+ <img src="https://user-images.githubusercontent.com/45159366/106686391-0f7c7a00-657f-11eb-9d0b-1ebb4d385883.jpeg">
+
+[Moonlight Game Streaming](https://moonlight-stream.org/) is a program that let you stream from your PC games over the Internet with no configuration required. Stream from almost any device, whether you're in another room or miles away from your gaming rig. 
+<img src="https://user-images.githubusercontent.com/45159366/106686398-11463d80-657f-11eb-841a-d534829ccc3d.png">
+
+[Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) is a Free and Open Source Software Client for PlayStation 4 and PlayStation 5 Remote Play for Linux, FreeBSD, OpenBSD, Android, macOS, Windows, Nintendo Switch and potentially even more platforms.
+
+ 
+## Graphics Performance
+ 
+[GreenWithEnvy (GWE)](https://gitlab.com/leinardi/gwe) is a GTK system utility designed by Roberto Leinardi to provide information, control the fans and overclock your NVIDIA video card for better performance. Available in the Pop Shop as a Flatpak.
+ <img src="https://user-images.githubusercontent.com/45159366/107091994-89974380-67b7-11eb-85ed-eedec7e3dfbf.png">
+ 
+[CoreCtrl](https://gitlab.com/corectrl/corectrl) is a free and open source Linux application that allows you to control your computer hardware with ease using application profiles for native and Windows applications, has basic CPU controls and full AMD GPUs controls (for both old and new models). 
+ 
+ ```sh
+ sudo add-apt-repository ppa:ernstp/mesarc
+ sudo apt install corectrl
+```
+<img src="https://user-images.githubusercontent.com/45159366/107092000-8b610700-67b7-11eb-86f7-6fcb3d017cd0.png">
+
+
+## Performance Benchmarks
+
+[Geekbench 5](https://www.geekbench.com/download/) is a cross-platform benchmark that measures your system's performance with the press of a button.
+
+[UNIGINE Superposition](https://benchmark.unigine.com/superposition) is an extreme performance and stability test for PC hardware: video card, power supply, cooling system.
+
+<img src="https://user-images.githubusercontent.com/45159366/107092007-8f8d2480-67b7-11eb-9c3f-a0cb02e6dfcd.png">
+
+## Steam
+
+[Get Steam](https://store.steampowered.com/about/)
+
+**Or**
+
+```sh
+wget https://steamcdn-a.akamaihd.net/client/installer/steam.deb
+```
+[Proton](https://github.com/ValveSoftware/Proton/) is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
+
+## Enable Proton in Steam
+
+ - Click on “Steam” then “Settings” to open the Settings window at the far-left corner.
+ - On the “Settings” window, click on “Steam Play.” Ensure you check the “Enable Steam Play for supported files” and “Enable Steam Play for   all other titles” checkboxes. Lastly, select the Proton version you wish to use from the drop-down menu.
+ 
+ <img src="https://user-images.githubusercontent.com/45159366/106686402-13100100-657f-11eb-9012-6bdac264a808.png">
+
+## Lutris
+
+[Lutris](https://lutris.net) is a gaming client for Linux. It gives you access to all your video games with the exception of the current console generation. Also, integrates nicely with other stores like GOG, Steam, Battle.net, Origin, Uplay and many other sources that allow you to import your existing game library and community maintained install scripts give you a completely automated setup.
+
+[Add Epic Games Store](https://lutris.net/games/epic-games-store/)
+
+ <img src="https://user-images.githubusercontent.com/45159366/106686406-14412e00-657f-11eb-97c4-c80c6e25a374.png">
+ 
+ ## GameHub
+
+[GameHub](https://github.com/tkashkin/GameHub) is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
+
+<img src="https://user-images.githubusercontent.com/45159366/107862734-96451880-6e03-11eb-9b92-9d355b890083.png">
+
+
+**GameHub supports:**
+
+ - native games for Linux
+ - **multiple compatibility layers:**
+   - Wine
+   - Proton
+   - [DOSBox](https://www.dosbox.com/)
+   - [RetroArch](https://store.steampowered.com/app/1118310/RetroArch/)
+   - [ScummVM](https://www.scummvm.org/)
+   - [WineWrap](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post1) — a set of preconfigured wrappers for [supported games](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post3);
+   - custom emulators
+
+ - **multiple game platforms:**
+   - [Steam](https://store.steampowered.com/)
+   - [GOG](https://www.gog.com/)
+   - [Humble Bundle (including Humble Trove)](https://www.humblebundle.com/)
+   - [itch.io](https://itch.io/)
+ 
+## Wine
+
+[WINE(Wine Is Not an Emulator)](https://www.winehq.org) is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD. Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on-the-fly, eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop.
+
+## Winetricks
+
+[Winetricks](https://github.com/Winetricks/winetricks) is an easy way to work around problems in Wine.
+
+this is needed to avoid adobeair error
+```sh
+sudo sed -i 's|echo "\${arg%%=\*}"=\\""${arg### \*=}"\\"|echo \${arg%%=\*}=\\"\${arg### \*=}\\"|g' /usr/local/bin/winetricks
+sudo apt install cabextract libncurses5:armhf
+```
+# Setting up a MacOS workspace
+
+**REQUIREMENTS**
+
+   - A modern Linux distribution
+   - QEMU > 2.11.1
+   - A CPU with Intel VT-x / AMD SVM support is required
+   - A CPU with SSE4.1 support is required for >= macOS Sierra
+   - A CPU with AVX2 support is required for >= macOS Mojave
+   - Internet access for the installation process
+
+
+```sh
+Open the terminal and run: 
+sudo apt install qemu uml-utilities virt-manager dmg2img git wget libguestfs-tools p7zip
+```
+
+[Sosumi](https://snapcraft.io/install/sosumi/elementary) is a app that let's you download and install macOS in a VM. App is based on [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM).
+ <img src="https://user-images.githubusercontent.com/45159366/107092234-0fb38a00-67b8-11eb-9f30-f4d16545624b.png">
+
+[OpenCore for macOS](https://dortania.github.io/OpenCore-Install-Guide/)
+
+ <img src="https://user-images.githubusercontent.com/45159366/107092246-15a96b00-67b8-11eb-91fb-27494c7f1d4f.jpg">
+ 
+# Setting up a Windows 10 workspace
+ 
+**REQUIREMENTS**
+
+   - A modern Linux distribution
+   - QEMU > 2.11.1
+   - A CPU with Intel VT-x / AMD SVM support is required
+   - [WindowsGuestDrivers/Download Drivers - KVM](https://www.linux-kvm.org/page/WindowsGuestDrivers/Download_Drivers)
+   - Internet access for the installation process
+
+
+```sh
+Open the terminal and run: 
+sudo apt install qemu uml-utilities virt-manager gnome-boxes
+```
+
+[GNOME Boxes](https://wiki.gnome.org/Apps/Boxes) is an application that gives you access to virtual machines, running locally or remotely. It also allows you to connect to the display of a remote computer.
+
+ <img src="https://user-images.githubusercontent.com/45159366/107092256-1cd07900-67b8-11eb-9ae9-f389045dad26.png">
+ <img src="https://user-images.githubusercontent.com/45159366/107093639-72a62080-67ba-11eb-8d88-477929a5516b.png">
+ 
+ [OpenCore for Windows 10](https://dortania.github.io/OpenCore-Install-Guide/)
+ 
+ <img src="https://user-images.githubusercontent.com/45159366/107092270-222dc380-67b8-11eb-82cc-d41e9e8a39e0.png">
+
+
+## Advanced Topics
+
+**Below are some of my favorite Ubuntu tutorials from [DigitalOcean](https://www.digitalocean.com/) but also work well elementaryOS.**
 
 [How To Set Up Multi-Factor Authentication for SSH on Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-multi-factor-authentication-for-ssh-on-ubuntu-20-04)
 
