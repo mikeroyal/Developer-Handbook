@@ -7497,6 +7497,29 @@ wget https://steamcdn-a.akamaihd.net/client/installer/steam.deb
 
  <img src="https://user-images.githubusercontent.com/45159366/106686406-14412e00-657f-11eb-97c4-c80c6e25a374.png">
  
+ ## GameHub
+
+[GameHub](https://github.com/tkashkin/GameHub) is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
+
+<img src="https://user-images.githubusercontent.com/45159366/107862734-96451880-6e03-11eb-9b92-9d355b890083.png">
+
+**GameHub supports:**
+
+ - native games for Linux
+ - **multiple compatibility layers:**
+   - Wine
+   - Proton
+   - [DOSBox](https://www.dosbox.com/)
+   - [RetroArch](https://store.steampowered.com/app/1118310/RetroArch/)
+   - [ScummVM](https://www.scummvm.org/)
+   - [WineWrap](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post1) — a set of preconfigured wrappers for [supported games](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post3);
+   - custom emulators
+
+ - **multiple game platforms:**
+   - [Steam](https://store.steampowered.com/)
+   - [GOG](https://www.gog.com/)
+   - [Humble Bundle (including Humble Trove)](https://www.humblebundle.com/)
+   - [itch.io](https://itch.io/)
  
 ## Wine
 
@@ -7530,7 +7553,7 @@ Open the terminal and run:
 sudo apt install qemu uml-utilities virt-manager dmg2img git wget libguestfs-tools p7zip
 ```
 
-[Sosumi](https://snapcraft.io/install/sosumi/ubuntu) is a app that let's you download and install macOS in a VM.
+[Sosumi](https://snapcraft.io/install/sosumi/ubuntu) is a app that let's you download and install macOS in a VM. App is based on [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM).
  <img src="https://user-images.githubusercontent.com/45159366/107092234-0fb38a00-67b8-11eb-9f30-f4d16545624b.png">
 
 [OpenCore for macOS](https://dortania.github.io/OpenCore-Install-Guide/)
@@ -7724,7 +7747,7 @@ sudo apt install gnome-tweak-tool //let's you customize your desktop layout.
 
 ```sh
 Open the terminal and run: 
-sudo ufw enable  //enables ubuntu firewall
+sudo ufw enable  //enables firewall
 sudo ufw status //checks status of firewall
 ```
 # Getting Software
@@ -7884,6 +7907,29 @@ wget https://steamcdn-a.akamaihd.net/client/installer/steam.deb
 
  <img src="https://user-images.githubusercontent.com/45159366/106686406-14412e00-657f-11eb-97c4-c80c6e25a374.png">
  
+ ## GameHub
+
+[GameHub](https://github.com/tkashkin/GameHub) is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
+
+<img src="https://user-images.githubusercontent.com/45159366/107862734-96451880-6e03-11eb-9b92-9d355b890083.png">
+
+**GameHub supports:**
+
+ - native games for Linux
+ - **multiple compatibility layers:**
+   - Wine
+   - Proton
+   - [DOSBox](https://www.dosbox.com/)
+   - [RetroArch](https://store.steampowered.com/app/1118310/RetroArch/)
+   - [ScummVM](https://www.scummvm.org/)
+   - [WineWrap](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post1) — a set of preconfigured wrappers for [supported games](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post3);
+   - custom emulators
+
+ - **multiple game platforms:**
+   - [Steam](https://store.steampowered.com/)
+   - [GOG](https://www.gog.com/)
+   - [Humble Bundle (including Humble Trove)](https://www.humblebundle.com/)
+   - [itch.io](https://itch.io/)
  
 ## Wine
 
@@ -7917,7 +7963,7 @@ Open the terminal and run:
 sudo apt install qemu uml-utilities virt-manager dmg2img git wget libguestfs-tools p7zip
 ```
 
-[Sosumi](https://snapcraft.io/install/sosumi/ubuntu) is a app that let's you download and install macOS in a VM.
+[Sosumi](https://snapcraft.io/install/sosumi/ubuntu) is a app that let's you download and install macOS in a VM. App is based on [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM).
  <img src="https://user-images.githubusercontent.com/45159366/107092234-0fb38a00-67b8-11eb-9f30-f4d16545624b.png">
 
 [OpenCore for macOS](https://dortania.github.io/OpenCore-Install-Guide/)
@@ -8130,7 +8176,7 @@ sudo systemctl status firewalld
 
 **Note 1: All this software is also available in other popular Linux distributions such as [Debian](https://www.debian.org/), [Linux Mint](https://linuxmint.com/), [elementary OS](https://elementary.io/), [Fedora](https://getfedora.org), [Manjaro Linux](https://manjaro.org/), [EndeavourOS](https://endeavouros.com/) and [Arch Linux](https://archlinux.org/).**
 
-**Note 2: For new users not comfortable with using the command-line or need software not available in the Pop Shop checkout the Essential Apps section to get started. Also, if you scroll down further you'll see other easy ways to get software applications through Flathub, Snap Store, and AppImages.**
+**Note 2: For new users not comfortable with using the command-line or need software not available in the Software Center checkout the Essential Apps section to get started. Also, if you scroll down further you'll see other easy ways to get software applications through Flathub, Snap Store, and AppImages.**
 
 ## Essential Apps(depending on your workflow)
 
@@ -8277,6 +8323,29 @@ sudo dnf install steam
 
  <img src="https://user-images.githubusercontent.com/45159366/106686406-14412e00-657f-11eb-97c4-c80c6e25a374.png">
  
+ ## GameHub
+
+[GameHub](https://github.com/tkashkin/GameHub) is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
+
+<img src="https://user-images.githubusercontent.com/45159366/107862734-96451880-6e03-11eb-9b92-9d355b890083.png">
+
+**GameHub supports:**
+
+ - native games for Linux
+ - **multiple compatibility layers:**
+   - Wine
+   - Proton
+   - [DOSBox](https://www.dosbox.com/)
+   - [RetroArch](https://store.steampowered.com/app/1118310/RetroArch/)
+   - [ScummVM](https://www.scummvm.org/)
+   - [WineWrap](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post1) — a set of preconfigured wrappers for [supported games](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post3);
+   - custom emulators
+
+ - **multiple game platforms:**
+   - [Steam](https://store.steampowered.com/)
+   - [GOG](https://www.gog.com/)
+   - [Humble Bundle (including Humble Trove)](https://www.humblebundle.com/)
+   - [itch.io](https://itch.io/)
  
 ## Wine
 
@@ -8307,7 +8376,7 @@ Open the terminal and run:
 sudo dnf install qemu uml-utilities virt-manager dmg2img git wget libguestfs-tools p7zip
 ```
 
-[Sosumi](https://snapcraft.io/install/sosumi/ubuntu) is a app that let's you download and install macOS in a VM.
+[Sosumi](https://snapcraft.io/install/sosumi/fedora) is a app that let's you download and install macOS in a VM. App is based on [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM).
  <img src="https://user-images.githubusercontent.com/45159366/107092234-0fb38a00-67b8-11eb-9f30-f4d16545624b.png">
 
 [OpenCore for macOS](https://dortania.github.io/OpenCore-Install-Guide/)
@@ -8620,7 +8689,30 @@ wget https://steamcdn-a.akamaihd.net/client/installer/steam.deb
 
  <img src="https://user-images.githubusercontent.com/45159366/106686406-14412e00-657f-11eb-97c4-c80c6e25a374.png">
  
- 
+ ## GameHub
+
+[GameHub](https://github.com/tkashkin/GameHub) is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
+
+<img src="https://user-images.githubusercontent.com/45159366/107862734-96451880-6e03-11eb-9b92-9d355b890083.png">
+
+**GameHub supports:**
+
+ - native games for Linux
+ - **multiple compatibility layers:**
+   - Wine
+   - Proton
+   - [DOSBox](https://www.dosbox.com/)
+   - [RetroArch](https://store.steampowered.com/app/1118310/RetroArch/)
+   - [ScummVM](https://www.scummvm.org/)
+   - [WineWrap](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post1) — a set of preconfigured wrappers for [supported games](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post3);
+   - custom emulators
+
+ - **multiple game platforms:**
+   - [Steam](https://store.steampowered.com/)
+   - [GOG](https://www.gog.com/)
+   - [Humble Bundle (including Humble Trove)](https://www.humblebundle.com/)
+   - [itch.io](https://itch.io/)
+
 ## Wine
 
 [WINE(Wine Is Not an Emulator)](https://www.winehq.org) is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD. Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on-the-fly, eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop.
@@ -8651,7 +8743,7 @@ Open the terminal and run:
 sudo apt install qemu uml-utilities virt-manager dmg2img git wget libguestfs-tools p7zip
 ```
 
-[Sosumi](https://snapcraft.io/install/sosumi/ubuntu) is a app that let's you download and install macOS in a VM.
+[Sosumi](https://snapcraft.io/install/sosumi/debian) is a app that let's you download and install macOS in a VM. App is based on [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM).
  <img src="https://user-images.githubusercontent.com/45159366/107092234-0fb38a00-67b8-11eb-9f30-f4d16545624b.png">
 
 [OpenCore for macOS](https://dortania.github.io/OpenCore-Install-Guide/)
@@ -8865,7 +8957,7 @@ sudo susefirewall2-to-firewalld
 
 **Note 1: All this software is also available in other popular Linux distributions such as [Debian](https://www.debian.org/), [Linux Mint](https://linuxmint.com/), [elementary OS](https://elementary.io/), [Fedora](https://getfedora.org), [Manjaro Linux](https://manjaro.org/), [EndeavourOS](https://endeavouros.com/) and [Arch Linux](https://archlinux.org/).**
 
-**Note 2: For new users not comfortable with using the command-line or need software not available in the Pop Shop checkout the Essential Apps section to get started. Also, if you scroll down further you'll see other easy ways to get software applications through Flathub, Snap Store, and AppImages.**
+**Note 2: For new users not comfortable with using the command-line or need software not available in the Software Center checkout the Essential Apps section to get started. Also, if you scroll down further you'll see other easy ways to get software applications through Flathub, Snap Store, and AppImages.**
 
 ## Essential Apps(depending on your workflow)
 
@@ -9015,7 +9107,30 @@ sudo susefirewall2-to-firewalld
 
  <img src="https://user-images.githubusercontent.com/45159366/106686406-14412e00-657f-11eb-97c4-c80c6e25a374.png">
  
- 
+ ## GameHub
+
+[GameHub](https://github.com/tkashkin/GameHub) is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
+
+<img src="https://user-images.githubusercontent.com/45159366/107862734-96451880-6e03-11eb-9b92-9d355b890083.png">
+
+**GameHub supports:**
+
+ - native games for Linux
+ - **multiple compatibility layers:**
+   - Wine
+   - Proton
+   - [DOSBox](https://www.dosbox.com/)
+   - [RetroArch](https://store.steampowered.com/app/1118310/RetroArch/)
+   - [ScummVM](https://www.scummvm.org/)
+   - [WineWrap](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post1) — a set of preconfigured wrappers for [supported games](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post3);
+   - custom emulators
+
+ - **multiple game platforms:**
+   - [Steam](https://store.steampowered.com/)
+   - [GOG](https://www.gog.com/)
+   - [Humble Bundle (including Humble Trove)](https://www.humblebundle.com/)
+   - [itch.io](https://itch.io/)
+   
 ## Wine
 
 [WINE(Wine Is Not an Emulator)](https://www.winehq.org) is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD. Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on-the-fly, eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop.
@@ -9037,7 +9152,7 @@ Open the terminal and run:
 sudo zypper qemu uml-utilities virt-manager dmg2img git wget libguestfs-tools p7zip
 ```
 
-[Sosumi](https://snapcraft.io/install/sosumi/) is a app that let's you download and install macOS in a VM.
+[Sosumi](https://snapcraft.io/install/sosumi/opensuse) is a app that let's you download and install macOS in a VM. App is based on [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM).
  <img src="https://user-images.githubusercontent.com/45159366/107092234-0fb38a00-67b8-11eb-9f30-f4d16545624b.png">
 
 [OpenCore for macOS](https://dortania.github.io/OpenCore-Install-Guide/)
@@ -9191,7 +9306,7 @@ sudo systemctl status firewalld
 
 **Note 1: All this software is also available in other popular Linux distributions such as [Debian](https://www.debian.org/), [Linux Mint](https://linuxmint.com/), [elementary OS](https://elementary.io/), [Fedora](https://getfedora.org), [Manjaro Linux](https://manjaro.org/), [EndeavourOS](https://endeavouros.com/) and [Arch Linux](https://archlinux.org/).**
 
-**Note 2: For new users not comfortable with using the command-line or need software not available in the Pop Shop checkout the Essential Apps section to get started. Also, if you scroll down further you'll see other easy ways to get software applications through Flathub, Snap Store, and AppImages.**
+**Note 2: For new users not comfortable with using the command-line or need software not available in the AUR or Software Center checkout the Essential Apps section to get started. Also, if you scroll down further you'll see other easy ways to get software applications through Flathub, Snap Store, and AppImages.**
 
 ## Essential Apps(depending on your workflow)
 
@@ -9342,7 +9457,30 @@ yay -Sy corectrl
 
  <img src="https://user-images.githubusercontent.com/45159366/106686406-14412e00-657f-11eb-97c4-c80c6e25a374.png">
  
- 
+ ## GameHub
+
+[GameHub](https://github.com/tkashkin/GameHub) is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
+
+<img src="https://user-images.githubusercontent.com/45159366/107862734-96451880-6e03-11eb-9b92-9d355b890083.png">
+
+**GameHub supports:**
+
+ - native games for Linux
+ - **multiple compatibility layers:**
+   - Wine
+   - Proton
+   - [DOSBox](https://www.dosbox.com/)
+   - [RetroArch](https://store.steampowered.com/app/1118310/RetroArch/)
+   - [ScummVM](https://www.scummvm.org/)
+   - [WineWrap](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post1) — a set of preconfigured wrappers for [supported games](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post3);
+   - custom emulators
+
+ - **multiple game platforms:**
+   - [Steam](https://store.steampowered.com/)
+   - [GOG](https://www.gog.com/)
+   - [Humble Bundle (including Humble Trove)](https://www.humblebundle.com/)
+   - [itch.io](https://itch.io/)
+   
 ## Wine
 
 [WINE(Wine Is Not an Emulator)](https://www.winehq.org) is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD. Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on-the-fly, eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop.
@@ -9364,7 +9502,7 @@ Open the terminal and run:
 sudo pacman -S qemu uml-utilities virt-manager dmg2img git wget libguestfs-tools p7zip
 ```
 
-[Sosumi](https://snapcraft.io/install/sosumi/) is a app that let's you download and install macOS in a VM.
+[Sosumi](https://snapcraft.io/install/sosumi/arch) is a app that let's you download and install macOS in a VM. App is based on [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM).
  <img src="https://user-images.githubusercontent.com/45159366/107092234-0fb38a00-67b8-11eb-9f30-f4d16545624b.png">
 
 [OpenCore for macOS](https://dortania.github.io/OpenCore-Install-Guide/)
@@ -9397,7 +9535,6 @@ sudo pacman -S qemu uml-utilities virt-manager gnome-boxes
  <img src="https://user-images.githubusercontent.com/45159366/107092270-222dc380-67b8-11eb-82cc-d41e9e8a39e0.png">
 
 # GNOME Extensions
-
 
 **Note: GNOME Extenions allow you customize your Desktop layout anyway you want.**
 
@@ -9631,7 +9768,30 @@ wget https://steamcdn-a.akamaihd.net/client/installer/steam.deb
 
  <img src="https://user-images.githubusercontent.com/45159366/106686406-14412e00-657f-11eb-97c4-c80c6e25a374.png">
  
- 
+ ## GameHub
+
+[GameHub](https://github.com/tkashkin/GameHub) is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
+
+<img src="https://user-images.githubusercontent.com/45159366/107862734-96451880-6e03-11eb-9b92-9d355b890083.png">
+
+**GameHub supports:**
+
+ - native games for Linux
+ - **multiple compatibility layers:**
+   - Wine
+   - Proton
+   - [DOSBox](https://www.dosbox.com/)
+   - [RetroArch](https://store.steampowered.com/app/1118310/RetroArch/)
+   - [ScummVM](https://www.scummvm.org/)
+   - [WineWrap](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post1) — a set of preconfigured wrappers for [supported games](https://www.gog.com/forum/general/adamhms_linux_wine_wrappers_news_faq_discussion/post3);
+   - custom emulators
+
+ - **multiple game platforms:**
+   - [Steam](https://store.steampowered.com/)
+   - [GOG](https://www.gog.com/)
+   - [Humble Bundle (including Humble Trove)](https://www.humblebundle.com/)
+   - [itch.io](https://itch.io/)
+   
 ## Wine
 
 [WINE(Wine Is Not an Emulator)](https://www.winehq.org) is a compatibility layer capable of running Windows applications on several POSIX-compliant operating systems, such as Linux, macOS, & BSD. Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on-the-fly, eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop.
@@ -9662,7 +9822,7 @@ Open the terminal and run:
 sudo apt install qemu uml-utilities virt-manager dmg2img git wget libguestfs-tools p7zip
 ```
 
-[Sosumi](https://snapcraft.io/install/sosumi/ubuntu) is a app that let's you download and install macOS in a VM.
+[Sosumi](https://snapcraft.io/install/sosumi/mint) is a app that let's you download and install macOS in a VM. App is based on [macOS-Simple-KVM](https://github.com/foxlet/macOS-Simple-KVM).
  <img src="https://user-images.githubusercontent.com/45159366/107092234-0fb38a00-67b8-11eb-9f30-f4d16545624b.png">
 
 [OpenCore for macOS](https://dortania.github.io/OpenCore-Install-Guide/)
