@@ -9941,9 +9941,9 @@ sudo apt install qemu uml-utilities virt-manager gnome-boxes
 [Etcher](https://www.balena.io/etcher/) is an open source, cross-platform software that makes it easy to flash operating system images to a microSD card or USB device.
  
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107863673-ff7c5a00-6e0a-11eb-9010-b2c6b26953bc.png">
+ <img src="https://user-images.githubusercontent.com/45159366/129622957-b1d731f1-76ce-407c-9682-80741b987dfc.png">
   <br />
-  elementaryOS Desktop
+  elementaryOS 6 Desktop
 </h1>
 
 ## Enable Firewall
