@@ -9927,7 +9927,7 @@ sudo apt install qemu uml-utilities virt-manager gnome-boxes
 [Back to the Top](https://github.com/mikeroyal/Developer-Handbook/blob/main/README.md#table-of-contents)
 
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107863668-f7bcb580-6e0a-11eb-8651-3a649f34e6ee.png">
+ <img src="https://user-images.githubusercontent.com/45159366/153963482-d13545f5-b165-4768-9ff8-b9206365dfa0.png">
   <br />
   elementaryOS Guide
 </h1>
