@@ -8,6 +8,9 @@
   Developer Handbook
 </h1>
 
+ <a href="https://github.com/mikeroyal?tab=followers">
+         <img alt="followers" title="Follow me for Updates" src="https://custom-icon-badges.demolab.com/github/followers/mikeroyal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 	
+
 #### A Developer Handbook covering a variuous of Computer Architectures, Programming languages, Security, Networking, Game Developement, Graphics programming, Agile Development, etc.. This handbook also includes the Applications, Frameworks, Libraries and Tools that will make you a better and more efficient developer within each of Development.
 
 HandBook Version 1.0, 2021
