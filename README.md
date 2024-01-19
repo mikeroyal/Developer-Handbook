@@ -1880,6 +1880,8 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 [What is NoSQL?](https://aws.amazon.com/nosql/)
 
+[SQL Online Courses](https://www.coursesonline.co.uk/courses/sql/)
+
 ## Tools
 
 [Azure Data Studio](https://github.com/Microsoft/azuredatastudio) is an open source data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
